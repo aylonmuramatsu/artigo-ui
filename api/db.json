@@ -1,0 +1,135 @@
+{
+  "accountsPayable": [
+    {
+      "id":1,
+      "name": "ENERGIA ELETRICA",
+      "cost": 200.00,
+      "due_date": "2020-08-20"
+    }
+  ],
+  "revenue": [
+    {
+      "id":1,
+      "name": "TED - Prestação",
+      "cost": 2389.55,
+      "receive_date": "2020-08-05"
+    },
+    {
+      "id":2,
+      "name": "TED - Empresa",
+      "cost": 1258.22,
+      "receive_date": "2020-08-20"
+    },
+    {
+      "id": 3,
+      "name": "Vendas",
+      "cost": 225.99,
+      "receive_date": "2020-08-05"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Aylon Muramatsu"
+    }
+  ],
+  "wallets": [
+    {
+      "id": 1,
+      "name": "Banco do Brasil",
+      "agency": "2511",
+      "account": "245156",
+      "digit": "2",
+      "balance": 1599.22
+    },
+    {
+      "id": 2,
+      "name": "Itaú",
+      "agency": "2511",
+      "account": "245156",
+      "digit": "2",
+      "balance": 3259.22
+    },
+    {
+      "id": 3,
+      "name": "Nubank",
+      "agency": "2511",
+      "account": "245156",
+      "digit": "2",
+      "balance": 5789.15
+    },
+    {
+      "id": 4,
+      "name": "Neon",
+      "agency": "2511",
+      "account": "245156",
+      "digit": "2",
+      "balance": 1289.15
+    },
+    {
+      "id": 5,
+      "name": "Inter",
+      "agency": "2511",
+      "account": "245156",
+      "digit": "2",
+      "balance": 2789.15
+    },
+    {
+      "id": 6,
+      "name": "ModalMais",
+      "agency": "2511",
+      "account": "245156",
+      "digit": "2",
+      "balance": 4289.15
+    },
+    {
+      "id": 7,
+      "name": "Bradesco",
+      "agency": "2511",
+      "account": "245156",
+      "digit": "2",
+      "balance": 2689.15
+    }
+
+  ],
+  "transactions": [
+    {
+      "id": "1",
+      "name": "COMPRA 1",
+      "cost": 234.99,
+      "created_at": "2020-02-01 10:00:00"
+    },
+    {
+      "id": "2",
+      "name": "COMPRA CARTAO IFOOD",
+      "cost": 60.90,
+      "created_at": "2020-02-01 10:00:00"
+    },
+    {
+      "id": "3",
+      "name": "COMPRA CARTAO - COMPRA NO ESTABELECIMENTO",
+      "cost": 252.30,
+      "created_at": "2020-02-01 10:00:00"
+    },
+    {
+      "id": "4",
+      "name": "COMPRA CARTAO - COMPRA EM SUPERMERCADO",
+      "cost": 135.90,
+      "created_at": "2020-02-01 10:00:00"
+    },
+    {
+      "id": "5",
+      "name": "COMPRA CARTAO IFOOD",
+      "cost": 60.90,
+      "created_at": "2020-02-01 10:00:00"
+    },
+    {
+      "id": "6",
+      "name": "COMPRA CARTAO - POSTO DE GASOLINA",
+      "cost": 50,
+      "created_at": "2020-02-01 10:00:00"
+    }
+  ],
+  "dashboard": []
+
+}
